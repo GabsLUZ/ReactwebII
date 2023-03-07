@@ -1,0 +1,24 @@
+footer {
+    background-color: #6278F7;
+    background-image: url("./fundo.png");
+    padding: 35px;
+    
+}
+
+.redes {
+    display: inline;
+    max-width: 100%;
+    padding: 20px;
+    text-align: left;
+}
+
+.redes img {
+    padding: 15px;
+}
+
+h4 {
+    font-size: 25px;
+    color: aliceblue;
+    float: right;
+    margin-top: 1.1%;
+} 
